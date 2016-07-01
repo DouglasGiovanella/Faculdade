@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="funcionalidades.livros.menu" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/menu" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="13" y="6" width="351" height="366"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="funcionalidades.livros.menu.MenuDeLivrosController" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/menu/MenuDeLivrosController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="167" y="130" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="funcionalidades.livros.menu.MenuDeLivrosView" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/menu/MenuDeLivrosView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="155" y="303" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="4" language="java" name="funcionalidade.livros.incluir" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/incluir" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="394" y="7" width="536" height="553"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="5" language="java" name="funcionalidade.livros.incluir.IncluirNovoLivroController" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/incluir/IncluirNovoLivroController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="508" y="158" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="funcionalidade.livros.incluir.IncluirNovoLivroView" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/incluir/IncluirNovoLivroView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="752" y="412" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="7" language="java" name="funcionalidade.livros.consultar.todos" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/todos" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="942" y="16" width="351" height="376"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="8" language="java" name="funcionalidade.livros.consultar.todos.ConsultarTodosLivrosController" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/todos/ConsultarTodosLivrosController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position x="1055" y="125" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="funcionalidade.livros.consultar.todos.ConsultarTodosLivrosView" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/todos/ConsultarTodosLivrosView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="1079" y="301" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="10" language="java" name="funcionalidade.livros.consultar.menu" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/menu" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="11" y="393" width="368" height="286"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="11" language="java" name="funcionalidade.livros.consultar.menu.MenuConsultarController" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/menu/MenuConsultarController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="94" y="504" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="funcionalidade.livros.consultar.menu.MenuConsultarView" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/menu/MenuConsultarView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="206" y="562" width="168" height="111"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="13" language="java" name="funcionalidade.livros.consultar.codigo" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/codigo" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="397" y="553" width="496" height="248"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="funcionalidade.livros.consultar.codigo.ConsultarCodigoLivroController" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/codigo/ConsultarCodigoLivroController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position x="501" y="701" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="funcionalidade.livros.consultar.codigo.ConsultarCodigoLivroView" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/consultar/codigo/ConsultarCodigoLivroView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="775" y="680" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="16" language="java" name="funcionalidade.livros.remover.codigo" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/remover/codigo" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="945" y="396" width="424" height="419"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="17" language="java" name="funcionalidade.livros.remover.codigo.RemoverLivroCodigoController" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/remover/codigo/RemoverLivroCodigoController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="1251" y="540" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="funcionalidade.livros.remover.codigo.RemoverLivroCodigoView" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/remover/codigo/RemoverLivroCodigoView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="1079" y="736" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="19" language="java" name="funcionalidades.livros.comum" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/comum" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="-37" y="845" width="438" height="383"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="20" language="java" name="funcionalidades.livros.comum.ComumLivroController" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/comum/ComumLivroController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="-36" y="953" width="171" height="157"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="funcionalidades.livros.comum.ComumLivroView" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/comum/ComumLivroView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="292" y="1142" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="22" language="java" name="funcionalidades.livros.remover.menu" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/remover/menu" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="437" y="837" width="369" height="330"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="23" language="java" name="funcionalidades.livros.remover.menu.MenuRemoverController" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/remover/menu/MenuRemoverController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="522" y="954" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="funcionalidades.livros.remover.menu.MenuRemoverView" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidades/livros/remover/menu/MenuRemoverView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="718" y="1118" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="25" language="java" name="funcionalidade.livros.alterar" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/alterar" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="811" y="835" width="394" height="403"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="26" language="java" name="funcionalidade.livros.alterar.AlterarLivroController" 
+    project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/alterar/AlterarLivroController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="906" y="995" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="funcionalidade.livros.alterar.AlterarLivroView" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/funcionalidade/livros/alterar/AlterarLivroView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position x="1121" y="1180" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="28" language="java" name="dominio" project="TrabalhoArrayFinal" file="/TrabalhoArrayFinal/src/dominio" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position x="1479" y="621" width="285" height="626"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="29" language="java" name="dominio.Livro" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/dominio/Livro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="1605" y="948" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="30" language="java" name="arquivo" project="TrabalhoArrayFinal" file="/TrabalhoArrayFinal/src/arquivo" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position x="766" y="1250" width="667" height="515"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="31" language="java" name="arquivo.AdicionarNoArquivo" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/arquivo/AdicionarNoArquivo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="897" y="1625" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="arquivo.ConsultarNoArquivo" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/arquivo/ConsultarNoArquivo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="853" y="1333" width="314" height="220"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="arquivo.RemoverDoArquivo" project="TrabalhoArrayFinal" 
+    file="/TrabalhoArrayFinal/src/arquivo/RemoverDoArquivo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position x="1307" y="1519" width="-1" height="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="34">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="35" name="cview"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="38" name="menu"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="41" name="iview"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="44" name="intermediador"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="47" name="conArquivo"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="50" name="rview"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="53" name="incluirView"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="56" name="intermedia"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="59" name="cview"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="62" name="c"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="65" name="livro"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="68" name="consulta"/>      
+      <multiplicity id="69" minimum="0" maximum="1">        
+        <position x="1021" y="1298" width="23" height="16"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="71" name="consulta">        
+        <position x="1058" y="1311" width="49" height="18"/>      
+      </attribute>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="74" name="iview"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="77" name="aview"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="80" name="rview"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="83" name="ccontroller"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="85">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="86" name="livro"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="89" name="cview"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="92" name="adiciona"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="95" name="remove"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="98" name="remove"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
