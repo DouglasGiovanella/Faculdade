@@ -2,7 +2,7 @@ package dominio;
 
 public class Livro {
 	private String editora, autor, genero, nome; 
-	int numPag, ano, codigo;
+	private int numPag, ano, codigo;
 	
 	@Override
 	public String toString(){
