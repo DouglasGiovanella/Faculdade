@@ -1,8 +1,8 @@
 package funcionalidades.livros.remover.menu;
 import java.util.Scanner;
 
-import funcionalidade.livros.remover.codigo.RemoverLivroCodigoController;
-import funcionalidade.livros.remover.todos.RemoverLivroTodosController;
+import funcionalidades.livros.remover.codigo.RemoverLivroCodigoController;
+import funcionalidades.livros.remover.todos.RemoverLivroTodosController;
 
 public class MenuRemoverController {
 	

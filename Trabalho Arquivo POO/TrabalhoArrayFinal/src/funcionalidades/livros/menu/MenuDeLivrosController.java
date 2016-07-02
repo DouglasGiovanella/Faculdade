@@ -1,9 +1,9 @@
 package funcionalidades.livros.menu;
 import java.util.Scanner;
 
-import funcionalidade.livros.alterar.AlterarLivroController;
-import funcionalidade.livros.consultar.menu.MenuConsultarController;
-import funcionalidade.livros.incluir.IncluirNovoLivroController;
+import funcionalidades.livros.alterar.AlterarLivroController;
+import funcionalidades.livros.consultar.menu.MenuConsultarController;
+import funcionalidades.livros.incluir.IncluirNovoLivroController;
 import funcionalidades.livros.remover.menu.MenuRemoverController;
 
 public class MenuDeLivrosController {

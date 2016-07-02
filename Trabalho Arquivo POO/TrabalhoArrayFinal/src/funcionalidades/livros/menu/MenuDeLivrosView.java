@@ -16,7 +16,7 @@ public class MenuDeLivrosView {
         System.out.println("|    9 - Sair                                    |");
         System.out.println("|                                                |");
         System.out.println("|================================================|");
-        System.out.print("| Digite a opção desejada :: ");
+        System.out.print("| Digite a opção desejada >. ");
        
 	
 	}
