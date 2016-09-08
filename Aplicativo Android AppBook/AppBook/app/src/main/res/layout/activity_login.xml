@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.dougl.appbook.LoginActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src= "@drawable/book_icon"
+        android:id="@+id/imageView2"
+        android:contentDescription="@string/q" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app"
+            android:textSize="58sp"
+            android:textStyle="bold"
+            android:textColor="@color/corLetra"
+            android:id="@+id/AppTextView" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/BookTextView"
+            android:text="@string/book"
+            android:textSize="58sp"
+            android:textStyle="bold"
+            android:textColor="@color/padraoApp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/email"
+            android:id="@+id/textViewEmail"
+            android:textSize="17sp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/EmailField" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/senha"
+            android:id="@+id/textViewSenha"
+            android:textSize="17sp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="7"
+            android:id="@+id/SenhaField" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="25dp">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:text="@string/redefinir_senha"
+            android:id="@+id/buttonRecuperarSenha"
+            android:backgroundTint="@color/padraoApp"
+            android:layout_marginBottom="33dp"
+            android:layout_marginTop="12dp"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="wrap_content"
+            android:text="@string/cadastre_se_aqui"
+            android:id="@+id/buttonCadastro"
+            android:backgroundTint="@color/padraoApp"
+            android:layout_marginTop="12dp"/>
+
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/entrar"
+        android:id="@+id/buttonLogin"
+        android:backgroundTint="@color/padraoApp"
+        android:layout_marginTop="0dp" />
+
+
+</LinearLayout>
