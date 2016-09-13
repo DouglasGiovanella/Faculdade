@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#2b2a2a</color>
-    <color name="colorPrimaryDark">#2b2a2a</color>
-    <color name="colorAccent">#4bc595</color>
-    <color name="padraoApp">#4ac594</color>
-    <color name="corLetra">#b4b1b1</color>
-    <color name="fundo">#d2cdcd</color>
-</resources>
