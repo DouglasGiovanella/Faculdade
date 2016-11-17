@@ -7,11 +7,8 @@ typedef pair<int, int> PII;
 
 bool verifica(int first, int second){
 	
-	if( (first >= 0 && first <=7) && (second >= 0 && second <=7 )){
-		return true;
-	}else{
-		return false;
-	}
+	if( (first >= 0 && first <=7) && (second >= 0 && second <=7 )) return true;
+	else return false;
 		
 }
 
@@ -104,17 +101,8 @@ int main(){
 				} 	
 			}	
 			aux = fila.front();
-			
-		}
-		
+		}	
 	}
-	
-	
-	
-	
-	
-	
-	
 	
 	return 0;
 }
