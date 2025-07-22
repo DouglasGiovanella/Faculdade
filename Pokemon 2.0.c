@@ -9,13 +9,13 @@ sem_t mutex;
 typedef long long unsigned LLU;
 //diretorio[] = Diretorio da Pasta onde se encontra os arquivos de registro
 //deve conter 2 barras "\\" no final do diretorio
-//na pasta deve haver apenas os arquivos .txt 
+//na pasta deve haver apenas os arquivos .txt      
 char diretorio[] = {"C:\\Users\\douglasgiovanella\\Desktop\\Nova pasta\\"}; 
 
 double balancoTotal=0;
 LLU calculos=0;
-//Balanco(char nome[]) = Recebe o nome do arquivo, que é concatenado 
-//com o diretorio e então aberto com pelo FILE
+//Balanco(char nome[]) = Recebe o nome do arquivo, que Ã© concatenado 
+//com o diretorio e entÃ£o aberto com pelo FILE
 void * balanco(void * nome){
 	
 	FILE *arq;
@@ -33,7 +33,7 @@ void * balanco(void * nome){
 	}
 	
 	//while(fgets != NULL) = pega linha por linha do arquivo .txt 
-	//a cada linha é feita a separação das letras dos numeros para 
+	//a cada linha Ã© feita a separaÃ§Ã£o das letras dos numeros para 
 	//outra string e assim transformada em double;
 	while( (fgets(pegaLinha, sizeof(pegaLinha), arq) )!= NULL ){
 		cont=0;
@@ -92,7 +92,7 @@ int main(){
 	//Reabre diretorio
 	dir = opendir(diretorio);
 	
-	//Pula os 2 primeiros diretorios que são '.' e '..' e armazena os nomes
+	//Pula os 2 primeiros diretorios que sÃ£o '.' e '..' e armazena os nomes
 	//na variave arquivos
     while ( ( lsdir = readdir(dir) ) != NULL ){
     	if(cont >= 2){
